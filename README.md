@@ -21,10 +21,14 @@
 
 ## Introducción
 
-...
+Se aplica regresión utilizando la regularización para predecir el valor real de las posibles propiedades
 
 ### Métodos Utilizados
-...
+Analisis EDA
+Limpieza de datos(inputacion de valores nulos)
+Estandarizacion
+OneHotEncoding
+Analisi de correlacion de Pearson
 
 ### Tecnologías
 * Python
